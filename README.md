@@ -1,4 +1,4 @@
-# Weather-Prediction-using-Prophet-neural-networks
+# Weather-Prediction-using-Prophet
 \documentclass{article}
 
 \usepackage{listings}
